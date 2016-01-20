@@ -41,6 +41,8 @@ facebook :
   num_posts: 5
   width: 640
   colorscheme: light
+  
+comments: yes
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics:
 
