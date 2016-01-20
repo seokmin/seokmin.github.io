@@ -36,13 +36,11 @@ footer-links:
 # You can find your shortname on the Settings page of your Disqus account
 #somedaygamedev
 #disqus:
-comments :
-  provider : facebook
-  facebook :
-    appid : 959431057455795
-    num_posts: 5
-    width: 640
-    colorscheme: light
+facebook :
+  appid : 959431057455795
+  num_posts: 5
+  width: 640
+  colorscheme: light
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics:
 
