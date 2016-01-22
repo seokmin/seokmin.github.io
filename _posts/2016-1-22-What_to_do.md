@@ -132,7 +132,7 @@ category: 공부
 
 
 
-   - *Fundamentals of Data Structures in C*[^한국어 제목]를 다시 한번 읽고, 짜고, 정리해본다.
+   - *Fundamentals of Data Structures in C*[^1]를 다시 한번 읽고, 짜고, 정리해본다.
 
 
 
@@ -174,7 +174,7 @@ category: 공부
 
 
 
-   - *공룡책*[^공룡책]은 군대에서 한번 봤다.
+   - *공룡책*[^2]은 군대에서 한번 봤다.
 
    - *뇌를 자극하는 윈도우 시스템 프로그래밍*을 다시 한 번 읽고, 짜고, 정리한다.
 
@@ -182,6 +182,6 @@ category: 공부
 
 
 
-[^한국어 제목]: "C로 쓴 자료구조론"
+[^1]: 한국어 제목 - "C로 쓴 자료구조론"
 
-[^공룡책]: [Operating System Concepts](http://www.amazon.co.uk/Operating-System-Concepts-Abraham-Silberschatz/dp/0470233990)
+[^2]: [Operating System Concepts](http://www.amazon.co.uk/Operating-System-Concepts-Abraham-Silberschatz/dp/0470233990)
