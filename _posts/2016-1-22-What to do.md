@@ -90,5 +90,5 @@ category: 공부
    - *뇌를 자극하는 윈도우 시스템 프로그래밍*을 다시 한 번 읽고, 짜고, 정리한다.
 
 
-[^한국어 제목]:C로 쓴 자료구조론
-[^공룡책]:[Operating System Concepts](http://www.amazon.co.uk/Operating-System-Concepts-Abraham-Silberschatz/dp/0470233990)
+[^1]: 한국어 제목 - "C로 쓴 자료구조론"
+[^2]: [Operating System Concepts](http://www.amazon.co.uk/Operating-System-Concepts-Abraham-Silberschatz/dp/0470233990)
