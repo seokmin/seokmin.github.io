@@ -13,7 +13,8 @@ layout: default
     Written on {{ page.date | date: "%B %e, %Y" }}
   </div>
     <h2>Comments</h2>
-    <div class="fb-comments" data-href={{ site.url }}{{ page.url }}" data-num-posts="4" data-width="706"></div>
-  
+    {% if site.facebook %}
+        <div class="fb-comments" data-href={{ site.url }}{{ page.url }}" data-num-posts="4" data-width="706"></div>
+    {% endif %}
   {% include disqus.html %}
 </article>
