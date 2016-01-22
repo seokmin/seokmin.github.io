@@ -182,6 +182,6 @@ category: 공부
 
 
 
-[^1]: 한국어 제목 - "C로 쓴 자료구조론"
+[^1]: *"C로 쓴 자료구조론"*
 
 [^2]: [Operating System Concepts](http://www.amazon.co.uk/Operating-System-Concepts-Abraham-Silberschatz/dp/0470233990)
