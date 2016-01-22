@@ -134,6 +134,8 @@ category: 공부
 
    - *Fundamentals of Data Structures in C*[^1]를 다시 한번 읽고, 짜고, 정리해본다.
 
+   - 알고리즘 문제를 풀어본다([Dovelet](www.dovelet.com)혹은 [Codeground](www.codeground.org) - 아직 미정)
+
 
 
 2. 네트워크
